@@ -1,0 +1,1 @@
+This will be my first npm package written in typescript
